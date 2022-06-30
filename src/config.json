@@ -1,0 +1,10 @@
+{
+    "collections": [
+        {
+            "name": "okay_bears",
+            "magiceden_id": "okay_bears",
+	        "opensea_id": "okay-bears",
+            "apis" : ["magiceden", "opensea"]
+        }
+    ]
+}
